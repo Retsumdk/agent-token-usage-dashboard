@@ -1,0 +1,42 @@
+[
+  {
+    "timestamp": "2026-06-01T10:00:00Z",
+    "agentId": "agent-1",
+    "agentName": "ResearchAgent",
+    "model": "gpt-4o",
+    "promptTokens": 500,
+    "completionTokens": 200,
+    "totalTokens": 700,
+    "costEstimate": 0.0105
+  },
+  {
+    "timestamp": "2026-06-01T10:05:00Z",
+    "agentId": "agent-1",
+    "agentName": "ResearchAgent",
+    "model": "gpt-4o",
+    "promptTokens": 300,
+    "completionTokens": 150,
+    "totalTokens": 450,
+    "costEstimate": 0.00675
+  },
+  {
+    "timestamp": "2026-06-01T11:00:00Z",
+    "agentId": "agent-2",
+    "agentName": "WriterAgent",
+    "model": "claude-3-5-sonnet",
+    "promptTokens": 1000,
+    "completionTokens": 800,
+    "totalTokens": 1800,
+    "costEstimate": 0.027
+  },
+  {
+    "timestamp": "2026-06-02T09:00:00Z",
+    "agentId": "agent-1",
+    "agentName": "ResearchAgent",
+    "model": "gpt-4o-mini",
+    "promptTokens": 2000,
+    "completionTokens": 100,
+    "totalTokens": 2100,
+    "costEstimate": 0.000315
+  }
+]
